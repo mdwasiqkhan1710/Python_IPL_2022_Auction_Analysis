@@ -11,4 +11,4 @@ CSK, KKR, Punjab Kings and MI bought highest number of players which is 25 playe
 Clearly Punjab Kings retained least number of players whereas CSK, KKR and MI reatined highest number of players before the auction.
 Punjab Kings purchased highest number of players followed by RR, MI, KKR and CSK.
 Clearly MI purchased the most costly player of 15.25 Crore.
-Ravindra Jadeja, Rishabh Pant and Rohit Sharma got the highest price among the retained players.¶
+Ravindra Jadeja, Rishabh Pant and Rohit Sharma got the highest price among the retained players.
